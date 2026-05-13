@@ -19,6 +19,8 @@ import HelloWorld from './components/HelloWorld.vue'
     </div>
   </header>
 
+  <h1>CITAK GAY</h1>
+
   <RouterView />
 </template>
 
