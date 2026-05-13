@@ -1,6 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Test</h1>
+    <h1>Tentang Kami produck Kios purwa</h1>
   </div>
 </template>
 
