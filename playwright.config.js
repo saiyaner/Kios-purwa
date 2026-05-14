@@ -63,6 +63,12 @@ export default defineConfig({
         ...devices['Desktop Safari'],
       },
     },
+    {
+      name: 'barve',
+      use: {
+        ...devices['Desktop barve'],
+      },
+    },
 
     /* Test against mobile viewports. */
     // {
